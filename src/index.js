@@ -1,0 +1,4 @@
+alert('fast cache');
+
+
+
